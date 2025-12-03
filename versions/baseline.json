@@ -8640,6 +8640,10 @@
       "baseline": "0.4.2",
       "port-version": 0
     },
+    "rockchip-ffmpeg": {
+      "baseline": "7.1.2",
+      "port-version": 0
+    },
     "rockchip-mpp": {
       "baseline": "1.0.11",
       "port-version": 0
