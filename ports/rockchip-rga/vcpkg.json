@@ -1,0 +1,14 @@
+{
+  "name": "rockchip-rga",
+  "version-semver": "1.10.4",
+  "description": "Mirrors of Rockchip BSP repositories, only contains yocto related ones to keep it thin since the yocto would try to clone the whole repository.",
+  "homepage": "https://github.com/nyanmisaka/rk-mirrors/tree/jellyfin-rga",
+  "license": "Apache-2.0",
+  "supports": "linux",
+  "dependencies": [
+    {
+      "name": "vcpkg-tool-meson",
+      "host": true
+    }
+  ]
+}

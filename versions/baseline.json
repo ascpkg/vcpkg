@@ -8640,6 +8640,10 @@
       "baseline": "0.4.2",
       "port-version": 0
     },
+    "rockchip-rga": {
+      "baseline": "1.10.4",
+      "port-version": 0
+    },
     "rocksdb": {
       "baseline": "10.4.2",
       "port-version": 0
